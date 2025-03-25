@@ -1,8 +1,30 @@
-# HawKx007_WOC7014
-lANDING_PAGE_HawKx007--> https://github.com/HawKx007
+### Hi there 👋 I'm Md. Rasiul Hasan Shahrukh AKA 'HawK'
 
-'Reason for enrollment to WOC7014'
-----------------------------------
-> It is very important to understand the artictecture of a software to ensure structured development of a system. I hope to learn about frameworks to ensure that I can design a software with efficiency while ensuring that my practice is follwoing the standardized steps. This will help to blend in with any team in future to contribute to their system development. Moreever, while other teams collaborating with me can easily understand work with me as well. I also look forward to exploring new tech and trends while undertaking this course. Overall, this whole experince should prepare me mentally and technically to face challanges related to software developments head-on.
+- 🔭 I’m currently studying my Master's in Computer Science(Applied Computing) at the University of Malaya.
+- 🌱 I'm interested in Blockchain, Cryptography, and Cybersecurity.
+- 📖 I’m currently learning Post-Quantum Security and Cybersecurity.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rhshawk007/)
+- Discover my new research work here [GoogleScholar](https://scholar.google.com/citations?user=GyqIKmcAAAAJ&hl=en&authuser=1)
+- ⚡ Fun fact: I love to travel and explore new cultures. I also am a hobyist photograppher.
+- Want a sneak peak of my photography? Here --> [Instagram](https://www.instagram.com/acheron_kryptos/) <-- go ahead! 
 
- 
+---
+
+### 🛠️ Technologies & Tools:
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![Blockchain](https://img.shields.io/badge/-Blockchain-333333?style=flat&logo=ethereum)
+![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+
+
+---
+
+### 📊 GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=transparent)
+
+---
+
+### 🚀 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](your-linkedin-link)
+
+
